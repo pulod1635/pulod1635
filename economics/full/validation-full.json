@@ -1,0 +1,216 @@
+{
+  "pdf_pages": 535,
+  "words_in_text_blocks": 101482,
+  "source_lessons": 63,
+  "additional_theory_chapters": 48,
+  "new_automation_lessons": 4,
+  "new_deep_seminars": 4,
+  "source_tables": 153,
+  "word_table_panels": 345,
+  "independent_numeric_checks": 40,
+  "numeric_checks": [
+    {
+      "check": "Marginal irrigation/cultivation effect",
+      "value": 71.0,
+      "expected": 71
+    },
+    {
+      "check": "Wheat opportunity margin",
+      "value": 300.0,
+      "expected": 300
+    },
+    {
+      "check": "Fertilizer arc elasticity",
+      "value": 0.4298981542903968,
+      "expected": 0.4298981542903968
+    },
+    {
+      "check": "HHI partial",
+      "value": 3150.0,
+      "expected": 3150
+    },
+    {
+      "check": "PV 12 percent as 0.12",
+      "value": 797193.8775510202,
+      "expected": 797193.8775510202
+    },
+    {
+      "check": "Inflation deflator",
+      "value": 769467.5284702984,
+      "expected": 769467.5284702986
+    },
+    {
+      "check": "Fertilizer cost",
+      "value": 3042.0,
+      "expected": 3042
+    },
+    {
+      "check": "Total cultivation cost",
+      "value": 18798.0,
+      "expected": 18798
+    },
+    {
+      "check": "Total cost shares",
+      "value": 1.0,
+      "expected": 1
+    },
+    {
+      "check": "Cash first month",
+      "value": 50000.0,
+      "expected": 50000
+    },
+    {
+      "check": "Cash annual ending",
+      "value": 80300.0,
+      "expected": 80300
+    },
+    {
+      "check": "EAC combine",
+      "value": 417151.6500140679,
+      "expected": 417151.65001406794
+    },
+    {
+      "check": "Machine NPV",
+      "value": 4203232.647017104,
+      "expected": 4203232.647017104
+    },
+    {
+      "check": "Make buy annual difference",
+      "value": 882848.3499859321,
+      "expected": 882848.3499859321
+    },
+    {
+      "check": "Scenario pessimistic profit",
+      "value": -3469500,
+      "expected": -3469500
+    },
+    {
+      "check": "Scenario baseline profit",
+      "value": 3982500,
+      "expected": 3982500
+    },
+    {
+      "check": "Scenario optimistic profit",
+      "value": 9517500,
+      "expected": 9517500
+    },
+    {
+      "check": "Procurement difference",
+      "value": 760262.4,
+      "expected": 760262.4
+    },
+    {
+      "check": "Procurement financing-adjusted total",
+      "value": 580083.7699999999,
+      "expected": 580083.77
+    },
+    {
+      "check": "Payroll scenario 10 people",
+      "value": 13000.0,
+      "expected": 13000
+    },
+    {
+      "check": "Inventory shortage amount",
+      "value": 249789.10000000003,
+      "expected": 249789.1
+    },
+    {
+      "check": "Benford theory sum",
+      "value": 1.0,
+      "expected": 1
+    },
+    {
+      "check": "Benford sample count",
+      "value": 200.0,
+      "expected": 200
+    },
+    {
+      "check": "Tax employer contribution",
+      "value": 1713150.0,
+      "expected": 1713150
+    },
+    {
+      "check": "Three questions count bounded",
+      "value": 3,
+      "expected": 3
+    },
+    {
+      "check": "Yield data discrepancy",
+      "value": 482.1,
+      "expected": 482.1
+    },
+    {
+      "check": "Discrepancy monetary scenario",
+      "value": 3133650.0,
+      "expected": 3133650
+    },
+    {
+      "check": "Wheat stated cost budget",
+      "value": 4700.0,
+      "expected": 4700
+    },
+    {
+      "check": "Wheat listed costs plus declared reserve",
+      "value": 4700.0,
+      "expected": 4700
+    },
+    {
+      "check": "Crop margin wheat",
+      "value": 5300,
+      "expected": 5300
+    },
+    {
+      "check": "Sold wheat cost basis profit",
+      "value": 678400.0,
+      "expected": 678400
+    },
+    {
+      "check": "Seeds internal transfer",
+      "value": 88830,
+      "expected": 88830
+    },
+    {
+      "check": "Cost of sold grain",
+      "value": 601600,
+      "expected": 601600
+    },
+    {
+      "check": "Two tonnes cost",
+      "value": 3760,
+      "expected": 3760
+    },
+    {
+      "check": "Work act total",
+      "value": 1056.6,
+      "expected": 1056.6
+    },
+    {
+      "check": "Stochastic plan x=100",
+      "value": 2000.0,
+      "expected": 2000
+    },
+    {
+      "check": "Expected value solution actual cost",
+      "value": 2166.666666666667,
+      "expected": 2166.666666666667
+    },
+    {
+      "check": "Perfect information value",
+      "value": 500.0,
+      "expected": 500
+    },
+    {
+      "check": "Bayes false positive example",
+      "value": 0.07476635514018691,
+      "expected": 0.07476635514018691
+    },
+    {
+      "check": "Wheat VAT example gross profit",
+      "value": 79913.0434782609,
+      "expected": 79913.04347826086
+    }
+  ],
+  "blank_or_near_blank_pages": [],
+  "layout_flags": [],
+  "scope": "Проверены перечисленные результаты, все 1452 формулы табличного практикума и их сохранённые значения. Это не независимая проверка всех фактических утверждений исходной рукописи и не подтверждение налоговых норм."
+}

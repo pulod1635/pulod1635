@@ -1,0 +1,46 @@
+{
+  "economics-full.md": {
+    "bytes": 1608218,
+    "sha256": "def37a9c4c0fa70809cbfade37dde59a0a32753445b750bc40a160f07e318851"
+  },
+  "economics-full.docx": {
+    "bytes": 982862,
+    "sha256": "af4d42e27ac4ec0e178995618e521a224335b7260760b674668920f40712b695"
+  },
+  "practice.py": {
+    "bytes": 6285,
+    "sha256": "0f9ab867fcd45fb990a796731b8d7a777f1bf6f412f5bf340776a0c4e72a009c"
+  },
+  "README.md": {
+    "bytes": 4206,
+    "sha256": "7a31adb8827cf1e37af5615ec4b7f970937cf2e0da97bcc3cb9b7d79c9d0eb46"
+  },
+  "economics-models.xlsx": {
+    "bytes": 24079,
+    "sha256": "cb0431f8c9c7b0bc18ecf0ea181cafd060e3d7bfe93005f79b02fb8edc5fe81b"
+  },
+  "validation-full.json": {
+    "bytes": 5057,
+    "sha256": "25590fdd36c8e539608953f4f7d4f792d7ceda36f9bd11890ac7c60632b800e7"
+  },
+  "economics-full-tables.xlsx": {
+    "bytes": 295667,
+    "sha256": "4c74b956d3792392b92e7fe4b2162b283f3facfa2afc95e5e1f207a60798954b"
+  },
+  "editorial-report.md": {
+    "bytes": 43644,
+    "sha256": "30896e7e510e4bd5424b4c9d0ae2a5aef7fbb774b2723acb6999d5bf51d3f240"
+  },
+  "lesson-map.csv": {
+    "bytes": 16344,
+    "sha256": "78b458d97daccf18a4649c7470e0083eb212d17b02d720a5e599f6dc5f7afad6"
+  },
+  "economics-full.pdf": {
+    "bytes": 2101756,
+    "sha256": "39581c042c82375b3c3be149b5578ae54fbf8372bc0964649f779597cf27d547"
+  },
+  "verified-results.json": {
+    "bytes": 774,
+    "sha256": "f9721920bc595d341763b5ead48c215a9c7d9f38894be4cd56f97b01ad2e3a0c"
+  }
+}
